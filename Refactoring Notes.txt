@@ -1,0 +1,18 @@
+Updated title from "webiste" to reflect more infomation
+Changed header div to <header>
+    updated CSS accordingly
+changed the div for the navigation header to <nav>
+    updated CSS accordingly
+Added a <figure> around the <div class="hero">
+    Added an ID of "teamwork_image"
+Changed the <div class="content"> to a <main id="content"> 
+    updated CSS accordingly
+Changed the <div class="benifits"> to <aside id="benifits">
+    updated CSS accordingly
+Changed <div class="footer> to a <footer>
+    updated CSS accordingly
+Removed erant ) after <header class="header">
+Removed erant / at the end of various <img> tags
+Replaced the <div>'s in new <main> with <section>'s
+Condensed classes "benifit-lead/cost/brand" down to 1 class="benifit"
+    removed redudant .benifit classes in CSS
