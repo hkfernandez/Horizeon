@@ -1,18 +1,23 @@
 Updated title from "webiste" to reflect more infomation
-Changed header div to <header>
+Changed header <div> to <header>
     updated CSS accordingly
-changed the div for the navigation header to <nav>
+Changed the <div> for the navigation header to <nav>
     updated CSS accordingly
-Added a <figure> around the <div class="hero">
-    Added an ID of "teamwork_image"
-Changed the <div class="content"> to a <main id="content"> 
+Replaced <div class="hero"> with <figure>
     updated CSS accordingly
-Changed the <div class="benifits"> to <aside id="benifits">
+Changed the <div class="content"> to a <main> 
+    updated CSS accordingly
+Changed the <div class="benifits"> to <aside>
     updated CSS accordingly
 Changed <div class="footer> to a <footer>
     updated CSS accordingly
-Removed erant ) after <header class="header">
 Removed erant / at the end of various <img> tags
 Replaced the <div>'s in new <main> with <section>'s
+Replaced <div>'s in <aside> with <section>'s
 Condensed classes "benifit-lead/cost/brand" down to 1 class="benifit"
     removed redudant .benifit classes in CSS
+Commented out the footer as none shown in the sample image
+Consolodated classes in <main> for <div>'s and <img>'s
+Added alt text to all images
+.online-reputation-management and matching H2 properties consolidated to an H2 property in CSS
+Rearranged the order of the CSS properties to fall in line with their appearance in the HTML
